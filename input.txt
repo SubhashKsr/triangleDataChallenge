@@ -1,0 +1,10 @@
+Product, Origin Year, Development Year, Incremental Value
+claims, 1995, 1995, 100.0
+claims, 1995, 1996, 50.0
+claims, 1995, 1997, 200.0
+claims, 1996, 1996, 80.0
+claims, 1996, 1997, 40.0
+claims, 1996, 1998, NaN
+claims, 1997, 1997, 120.0
+claims, 1997, 1998, NaN
+claims, 1997, 1999, NaN
